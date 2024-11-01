@@ -1,0 +1,117 @@
+.timelinesliderwp .slick-track {
+    display: flex;
+}
+
+.timelinesliderwp .slick-list.draggable {
+    overflow: hidden;
+    width: 80%;
+}
+
+.timelinesliderwp {
+    display: flex;
+    flex-direction: row-reverse;
+    position: relative;
+    justify-content: space-between;
+}
+
+.timelinesliderwp ul.timelineslider-dots {
+    width: 18%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    cursor: pointer;
+    position: relative;
+    perspective: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    height: 160px;
+}
+
+ul.timelineslider-dots li {
+    padding: 5px 10px;
+    transform-style: preserve-3d;
+    position: absolute;
+    width: 100%;
+    color: #000000b8;
+    /* border-bottom: 1px solid #b7b7b7; */
+    text-align: center;
+    transition: all .3s ease;
+}
+
+ul.timelineslider-dots li.slick-active {
+    color: #000;
+}
+
+ul.timelineslider-dots::before {
+    content: '';
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background: #000;
+    transform: rotate3d(0, 0, 1, 45deg);
+    left: -10px;
+}
+
+.slick-slide {
+    height: 0px!important;
+}
+
+.slick-slide.slick-active {
+    height: 100% !important;  
+}
+
+ul.timelineslider-dots li {
+    transform: rotateX(0deg) translate3d(0px, 0px, 80px)
+}
+
+ul.timelineslider-dots li[data-position="next-first"] {
+    transform: rotateX(-30deg) translate3d(0px, 0px, 80px);
+}
+
+ul.timelineslider-dots li[data-position="next-second"] {
+    transform: rotateX(
+        -60deg
+        ) translate3d(0px, 0px, 80px);
+}
+
+ul.timelineslider-dots li[data-position="prev-first"] {
+    transform: rotateX(30deg) translate3d(0px, 0px, 80px);
+}
+
+ul.timelineslider-dots li[data-position="prev-second"] {
+    transform: rotateX(
+        60deg
+        ) translate3d(0px, 0px, 80px);
+}
+
+ul.timelineslider-dots li:not(.slick-active, [data-position="next-first"], [data-position="next-second"], [data-position="prev-first"], [data-position="prev-second"]) {
+    opacity: 0;
+}
+
+.timelinesliderwp .slick-prev:before, .timelinesliderwp .slick-next:before {
+    color: #000;
+    font-size: 30px;
+}
+
+.timelinesliderwp .slick-prev, .timelinesliderwp .slick-next {
+    top: -25px;
+    right: 0;
+    left: unset;
+}
+
+.timelinesliderwp .slick-prev {
+    right: 40px;
+}
+
+.timelinewpSlick {
+    overflow: hidden;
+}
+
+.timelinesliderwp .timelinewpSlick .alignfull {
+    width: 100%;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}

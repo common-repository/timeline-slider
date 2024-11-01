@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-01-22 21:53+0500\n"
+"PO-Revision-Date: 2022-01-22 21:55+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/timelinewp-class.php:33
+msgid "Shortcode"
+msgstr ""
+
+#: includes/timelinewp-class.php:46
+msgid "Docs"
+msgstr ""
+
+#: includes/timelinewp-class.php:46
+msgid "Community"
+msgstr ""
+
+#: includes/timelinewp-class.php:46
+msgid "Support"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:11 includes/timelinewp-cpt.php:14
+#: includes/timelinewp-cpt.php:46
+msgid "Timeline Slides"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:12 includes/timelinewp-cpt.php:36
+msgid "Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:13
+msgid "Timeline Slider"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:15
+msgid "Add New Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:16
+msgid "Add new Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:17
+msgid "Edit Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:18
+msgid "New Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:19
+msgid "View Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:20
+msgid "View Timeline Slides"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:21
+msgid "Search Timeline Slides"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:22
+msgid "No Timeline Slides found"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:23
+msgid "No Timeline Slides found in trash"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:24 includes/timelinewp-cpt.php:42
+msgid "Parent Timeline Slide:"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:25
+msgid "Featured image for this Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:26
+msgid "Set featured image for this Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:27
+msgid "Remove featured image for this Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:28
+msgid "Use as featured image for this Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:29
+msgid "Timeline Slide archives"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:30
+msgid "Insert into Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:31
+msgid "Upload to this Timeline Slide"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:32
+msgid "Filter Timeline Slides list"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:33
+msgid "Timeline Slides list navigation"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:34
+msgid "Timeline Slides list"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:35
+msgid "Timeline Slides attributes"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:37
+msgid "Timeline Slide published"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:38
+msgid "Timeline Slide published privately."
+msgstr ""
+
+#: includes/timelinewp-cpt.php:39
+msgid "Timeline Slide reverted to draft."
+msgstr ""
+
+#: includes/timelinewp-cpt.php:40
+msgid "Timeline Slide scheduled"
+msgstr ""
+
+#: includes/timelinewp-cpt.php:41
+msgid "Timeline Slide updated."
+msgstr ""
+
+#: includes/timelinewp-tax.php:11 includes/timelinewp-tax.php:13
+#: includes/timelinewp-tax.php:36
+msgid "Timeline Layouts"
+msgstr ""
+
+#: includes/timelinewp-tax.php:12
+msgid "Timeline Layout"
+msgstr ""
+
+#: includes/timelinewp-tax.php:14
+msgid "All Timeline Layouts"
+msgstr ""
+
+#: includes/timelinewp-tax.php:15
+msgid "Edit Timeline Layout"
+msgstr ""
+
+#: includes/timelinewp-tax.php:16
+msgid "View Timeline Layout"
+msgstr ""
+
+#: includes/timelinewp-tax.php:17
+msgid "Update Timeline Layout name"
+msgstr ""
+
+#: includes/timelinewp-tax.php:18
+msgid "Add new Timeline Layout"
+msgstr ""
+
+#: includes/timelinewp-tax.php:19
+msgid "New Timeline Layout name"
+msgstr ""
+
+#: includes/timelinewp-tax.php:20
+msgid "Parent Timeline Layout"
+msgstr ""
+
+#: includes/timelinewp-tax.php:21
+msgid "Parent Timeline Layout:"
+msgstr ""
+
+#: includes/timelinewp-tax.php:22
+msgid "Search Timeline Layouts"
+msgstr ""
+
+#: includes/timelinewp-tax.php:23
+msgid "Popular Timeline Layouts"
+msgstr ""
+
+#: includes/timelinewp-tax.php:24
+msgid "Separate Timeline Layouts with commas"
+msgstr ""
+
+#: includes/timelinewp-tax.php:25
+msgid "Add or remove Timeline Layouts"
+msgstr ""
+
+#: includes/timelinewp-tax.php:26
+msgid "Choose from the most used Timeline Layouts"
+msgstr ""
+
+#: includes/timelinewp-tax.php:27
+msgid "No Timeline Layouts found"
+msgstr ""
+
+#: includes/timelinewp-tax.php:28
+msgid "No Timeline Layouts"
+msgstr ""
+
+#: includes/timelinewp-tax.php:29
+msgid "Timeline Layouts list navigation"
+msgstr ""
+
+#: includes/timelinewp-tax.php:30
+msgid "Timeline Layouts list"
+msgstr ""
+
+#: includes/timelinewp-tax.php:31
+msgid "Back to Timeline Layouts"
+msgstr ""
